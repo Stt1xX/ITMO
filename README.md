@@ -1,2 +1,2 @@
-# ITMO
-This is a showcase of my laboratory work on various subjects in the course "System-Applied Software" at ITMO University
+# # ITMO
+This is a demonstration of my laboratory (and not only) work on various subjects in the framework of the course "System-applied software" at ITMO University
